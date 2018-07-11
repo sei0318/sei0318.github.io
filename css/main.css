@@ -2,16 +2,14 @@
 
 body{
   background: #f5f5f5;
-  font-family: meiryo;
 }
 div{
   background: #f8f8ff;
   width: 500px;
   padding: 10px;
   text-align: center;
-  border: 1px solid #cccccc;
-  margin:30px auto;
-  
+
+
 }
 
 </style>
